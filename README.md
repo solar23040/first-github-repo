@@ -1,2 +1,7 @@
 # first-github-repo
-new to python
+Hey guys this is my first project
+
+pls feel free to share and distribute this code 
+
+
+
